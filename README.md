@@ -15,7 +15,7 @@ Install dependencies with pip
   pip install selenium
   pip install webdriver_manager
 ```
-YOU NEED CHROME AND CHROMEDRIVER INSTALLED
+YOU NEED CHROME AND CHROMEDRIVER INSTALLED, FOR BOTH BUILD AND SOURCE CODE <br>
 https://chromedriver.chromium.org/downloads
 
 ## Usage
